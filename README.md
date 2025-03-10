@@ -6,7 +6,7 @@
       commit is the changes made to files serving as checkpoints
       branching is creating a separate line of development to work on new feature without affecting main code
 
-      open source and community which enables knowledge shatring and contributions 
+      open source and community which enables knowledge shatring and contributions
       backup and recovery as code is saved remotely to avoid loss
       collaborations which engages multiple developers to work on a common projectall together
 
